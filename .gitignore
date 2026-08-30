@@ -1,0 +1,17 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+personality_test
+
+# Runtime-generated data files (created when the program runs)
+users.txt
+feedback.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
